@@ -6,6 +6,7 @@ on:
       - qa
     paths:
       - "bisslog_supabase/**"
+      - ".github/**"
       - "pyproject.toml"
 
 jobs:
