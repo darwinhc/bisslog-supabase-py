@@ -6,8 +6,7 @@ from bisslog.transactional.transaction_traceable import TransactionTraceable
 
 
 class BasicSupabaseHelper(TransactionTraceable):
-    """
-    Basic helper for interacting with Supabase using common operations.
+    """Basic helper for interacting with Supabase using common operations.
 
     This class provides convenience methods for inserting, retrieving, and counting
     records in Supabase tables while supporting traceability and clean architecture.
