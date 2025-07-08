@@ -72,5 +72,5 @@ jobs:
         run: |
           python -m venv test_env
           source test_env/bin/activate
-          python -m pip install --index-url https://test.pypi.org/simple/ --no-deps bisslog_aws_rabbit==${{ needs.determine-version.outputs.version }}
+          python -m pip install --index-url https://test.pypi.org/simple/ --no-deps bisslog_supabase==${{ needs.determine-version.outputs.version }}
           deactivate
