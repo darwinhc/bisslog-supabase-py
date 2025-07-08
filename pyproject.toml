@@ -12,8 +12,8 @@ authors = [
 ]
 requires-python = ">=3.7"
 dependencies = [
-    "supabase>=2.16.0",
-    "httpx>=0.24.0",
+    "supabase",
+    "httpx",
     "bisslog>=0.0.7"
 ]
 classifiers = [
