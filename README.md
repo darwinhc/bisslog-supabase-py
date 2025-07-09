@@ -1,6 +1,6 @@
 # Business logic - Supabase (bisslog-supabase-py)
 
-[![PyPI](https://img.shields.io/pypi/v/bisslog-supabase-py)](https://pypi.org/project/bisslog-supabase-py/)
+[![PyPI](https://img.shields.io/pypi/v/bisslog-supabase)](https://pypi.org/project/bisslog-supabase/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 It is an extension of the bisslog library to support processes with the Supabase service using the official Python SDK.
